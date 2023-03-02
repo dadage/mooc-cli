@@ -1,6 +1,6 @@
 {
   "name": "@mod-cli-dev/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mod-cli-dev/core dev",
   "author": "chenwei <1210756150@qq.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@imooc-cli/utils": "^1.1.3",
-    "@mod-cli-dev/utils": "^0.0.1",
+    "@mod-cli-dev/utils": "^0.0.2",
     "hap-toolkit": "^1.9.11"
   }
 }

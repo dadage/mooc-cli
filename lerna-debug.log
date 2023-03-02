@@ -8,7 +8,7 @@
 39 error npm ERR! 404 tarball, folder, http url, or git url.
 39 error
 39 error npm ERR! A complete log of this run can be found in:
-39 error npm ERR!     C:\Users\chenwei\AppData\Local\npm-cache\_logs\2023-03-02T16_52_49_611Z-debug-0.log
+39 error npm ERR!     C:\Users\chenwei\AppData\Local\npm-cache\_logs\2023-03-02T17_00_41_721Z-debug-0.log
 39 error     at makeError (D:\慕课web前端架构师2022\project\mooc-cli-learn\mooc-cli-dev\node_modules\execa\lib\error.js:59:11)
 39 error     at handlePromise (D:\慕课web前端架构师2022\project\mooc-cli-learn\mooc-cli-dev\node_modules\execa\index.js:114:26)
 39 error     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

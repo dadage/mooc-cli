@@ -1,0 +1,17 @@
+{
+  "name": "mod-cli-dev",
+  "version": "1.0.0",
+  "description": "mod-cli-dev dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^6.5.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

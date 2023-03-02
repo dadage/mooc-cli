@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "hap-toolkit": "^1.9.11"
-  }
+  },
+  "gitHead": "529dc5ddd351f492c3dc22e439a58d075591adeb"
 }

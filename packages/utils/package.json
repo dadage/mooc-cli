@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npm.taobao.org/"
+    "registry": "http://registry.npm.js.org/"
   },
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
@@ -22,5 +22,5 @@
   "dependencies": {
     "hap-toolkit": "^1.9.11"
   },
-  "gitHead": "529dc5ddd351f492c3dc22e439a58d075591adeb"
+  "gitHead": "2a9ce16d162b7a3962fd6e22bda6e326517751e3"
 }

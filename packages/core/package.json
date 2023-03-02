@@ -1,6 +1,6 @@
 {
   "name": "@mod-cli-dev/core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "mod-cli-dev/core dev",
   "author": "chenwei <1210756150@qq.com>",
   "homepage": "",
@@ -14,14 +14,14 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npm.taobao.org/"
+    "registry": "publish"
   },
   "scripts": {
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
     "@imooc-cli/utils": "^1.1.3",
-    "@mod-cli-dev/utils": "^0.0.2",
+    "@mod-cli-dev/utils": "^0.0.3",
     "hap-toolkit": "^1.9.11"
   },
   "gitHead": "529dc5ddd351f492c3dc22e439a58d075591adeb"

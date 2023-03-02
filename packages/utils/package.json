@@ -1,6 +1,6 @@
 {
   "name": "@mod-cli-dev/utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "mod-cli-dev dev",
   "author": "chenwei <1210756150@qq.com>",
   "homepage": "",
@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npm.taobao.org/"
+    "registry": "publish"
   },
   "scripts": {
     "test": "node ./__tests__/utils.test.js"

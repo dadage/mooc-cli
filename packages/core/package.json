@@ -1,6 +1,6 @@
 {
   "name": "@mod-cli-dev/core",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "mod-cli-dev/core dev",
   "author": "chenwei <1210756150@qq.com>",
   "homepage": "",
@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "node ./__tests__/core.test.js"
   },

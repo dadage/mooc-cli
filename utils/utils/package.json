@@ -19,8 +19,5 @@
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
   },
-  "dependencies": {
-    "hap-toolkit": "^1.9.11"
-  },
   "gitHead": "2a9ce16d162b7a3962fd6e22bda6e326517751e3"
 }

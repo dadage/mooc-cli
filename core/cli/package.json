@@ -1,6 +1,6 @@
 {
   "name": "@mod-cli-dev/core",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "mod-cli-dev/core dev",
   "author": "chenwei <1210756150@qq.com>",
   "homepage": "",
@@ -23,7 +23,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@mod-cli-dev/utils": "^0.0.10",
+    "@mod-cli-dev/utils": "^0.0.11",
     "import-local": "^3.1.0",
     "npmlog": "^7.0.1"
   },
